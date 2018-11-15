@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MySkinTabPainter.cs](./CS/WindowsFormsApplication7/MySkinTabPainter.cs) (VB: [MySkinTabPainter.vb](./VB/WindowsFormsApplication7/MySkinTabPainter.vb))
+* [MySkinViewInfoRegistrator.cs](./CS/WindowsFormsApplication7/MySkinViewInfoRegistrator.cs) (VB: [MySkinViewInfoRegistrator.vb](./VB/WindowsFormsApplication7/MySkinViewInfoRegistrator.vb))
+* [MyXtraTabbedMdiManager.cs](./CS/WindowsFormsApplication7/MyXtraTabbedMdiManager.cs) (VB: [MyXtraTabbedMdiManager.vb](./VB/WindowsFormsApplication7/MyXtraTabbedMdiManager.vb))
+<!-- default file list end -->
 # How to draw a text within the XtraTabbedMdiManager's header empty area
 
 
